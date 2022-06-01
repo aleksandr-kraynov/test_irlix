@@ -1,0 +1,97 @@
+main { 
+    padding: 80px 160px;    
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+}
+
+input, button {
+    height: 48px;
+}
+
+h1, p {
+    margin: 0;
+}
+
+h1 {
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 84px;
+}
+
+p {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+}
+
+label, button {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+button {
+    color: #FFFFFF;
+    background-color: #000000;
+    cursor: pointer;
+}
+
+.block-add {
+    max-width: 100%;
+    width: 400px;
+    height: 278px;
+    display: flex;
+    flex-direction: column;
+    padding: 32px 16px;
+    border: 1px solid #000000;
+}
+
+.block-add__number, .block-add__name {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 16px;    
+}
+
+.list__welcome {
+    margin-bottom: 58px;
+}
+
+@media (max-width: 1200px) {
+    section {
+        flex-direction: column;
+    }
+
+    .list {
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 768px) {
+    main {
+        padding: 40px 80px;
+    }
+}
+
+@media (max-width: 576px) {
+    main {
+        padding: 20px 40px;
+    }
+    h1 {
+        font-weight: 500;
+        font-size: 36px;
+        line-height: 84px;
+    }
+    
+    p {
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 38px;
+    }
+
+    .list__welcome {
+        margin-bottom: 24px;
+    }
+}

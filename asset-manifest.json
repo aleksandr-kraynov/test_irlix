@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.46895988.css",
-    "main.js": "/static/js/main.b347ad23.js",
-    "static/js/787.e0b8be09.chunk.js": "/static/js/787.e0b8be09.chunk.js",
-    "static/media/Logo.svg": "/static/media/Logo.5f8288f8a4c0be1df57e7a11531fd27f.svg",
-    "index.html": "/index.html",
-    "main.46895988.css.map": "/static/css/main.46895988.css.map",
-    "main.b347ad23.js.map": "/static/js/main.b347ad23.js.map",
-    "787.e0b8be09.chunk.js.map": "/static/js/787.e0b8be09.chunk.js.map"
+    "main.css": "/test_irlix/static/css/main.46895988.css",
+    "main.js": "/test_irlix/static/js/main.3298af73.js",
+    "static/js/787.e0b8be09.chunk.js": "/test_irlix/static/js/787.e0b8be09.chunk.js",
+    "static/media/Logo.svg": "/test_irlix/static/media/Logo.5f8288f8a4c0be1df57e7a11531fd27f.svg",
+    "index.html": "/test_irlix/index.html",
+    "main.46895988.css.map": "/test_irlix/static/css/main.46895988.css.map",
+    "main.3298af73.js.map": "/test_irlix/static/js/main.3298af73.js.map",
+    "787.e0b8be09.chunk.js.map": "/test_irlix/static/js/787.e0b8be09.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46895988.css",
-    "static/js/main.b347ad23.js"
+    "static/js/main.3298af73.js"
   ]
 }
